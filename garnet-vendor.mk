@@ -1231,7 +1231,6 @@ PRODUCT_PACKAGES += \
     libMiMotion \
     libMiVDR \
     libMiVideoFilter \
-    libOpenCL_adreno \
     libPlatformValidatorShared \
     libQTEEConnector_listener \
     libQTEEConnector_vendor \
@@ -1593,7 +1592,6 @@ PRODUCT_PACKAGES += \
     libqseed3 \
     libqshcamera \
     libqsocket \
-    libqspm-mem-utils-vendor \
     libqti-iopd-client \
     libqti-iopd \
     libqti-perfd-client \
@@ -1875,7 +1873,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.qesdhal@1.1-impl \
     vendor.qti.qesdhal@1.1 \
     vendor.qti.qesdsys-V1-ndk_platform \
-    vendor.qti.qspmhal-V1-ndk_vendor \
     vendor.qti.qspmhal@1.0-impl \
     vendor.xiaomi.hardware.bgservice@1.0-impl \
     vendor.xiaomi.hardware.bgservice@1.0 \
@@ -1994,7 +1991,6 @@ PRODUCT_PACKAGES += \
     SoterService \
     TimeService \
     TrustZoneAccessService \
-    com.qualcomm.qti.gpudrivers.pineapple.api34 \
     uimgbaservice \
     EuiccGoogle \
     HotwordEnrollmentXGoogleHEXAGON_WIDEBAND \
