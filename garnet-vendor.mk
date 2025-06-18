@@ -1757,7 +1757,6 @@ PRODUCT_PACKAGES += \
     sensors.ultrasoundproximity \
     libasphere \
     libmisoundfx \
-    libshoebox \
     vendor.display.color@1.0 \
     vendor.display.color@1.1 \
     vendor.display.color@1.2 \
