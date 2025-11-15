@@ -14965,6 +14965,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/libdlbdsservice.so",
             ],
             shared_libs: [
+                "libstagefright_foundation-v33",
                 "libutils",
                 "libcutils",
                 "libstagefright_foundation",
@@ -23075,6 +23076,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/libstagefrightdolby.so",
             ],
             shared_libs: [
+                "libstagefright_foundation-v33",
                 "libstagefright_softomx",
                 "libstagefright_foundation",
                 "libutils",
@@ -24827,6 +24829,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/soundfx/libhwdap.so",
             ],
             shared_libs: [
+                "libstagefright_foundation-v33",
                 "liblog",
                 "libutils",
                 "libcutils",
@@ -32063,6 +32066,7 @@ cc_prebuilt_binary {
                 "proprietary/vendor/bin/hw/vendor.dolby.hardware.dms@2.0-service",
             ],
             shared_libs: [
+                "libstagefright_foundation-v33",
                 "liblog",
                 "libutils",
                 "libhidlbase",
